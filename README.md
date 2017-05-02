@@ -11,7 +11,7 @@ $>cat anthill
 4         #Nombre de fourmis
 ##start
 0 1 2     #coordonnées pièce de départ
-##end     
+##end
 1 2 3     #coordonnées pièce de fin
 2 3 4
 4 5 6
@@ -43,7 +43,7 @@ P2-1
 P3-1
 P4-1
 
-Réalisés par : 
+Réalisés par :
 Yohan Le Quéré (yohan.le-quere@epitech.eu)
 Swann Giboureau (swann.giboureau@epitech.eu)
 Thomas Yvert (thomas.yvert@epitech.eu)
